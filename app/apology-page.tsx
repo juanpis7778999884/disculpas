@@ -161,9 +161,7 @@ export default function ApologyPage({ isExpired, isTestMode, token }: Props) {
             <Heart className="w-20 h-20 mx-auto text-amber-500 mb-6 animate-heart-beat" />
           </div>
           
-          <h1 className="text-5xl md:text-6xl font-serif font-bold text-amber-900 mb-8 animate-fade-in-up opacity-0" style={{ animationDelay: '0.3s', animationFillMode: 'forwards' }}>
-            Lo siento mucho
-          </h1>
+         
 
           {/* 
             ====================================

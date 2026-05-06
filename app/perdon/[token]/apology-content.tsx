@@ -108,16 +108,13 @@ export default function ApologyContent() {
           {/* Message */}
           <div className="space-y-6 text-lg md:text-xl text-foreground/90 leading-relaxed opacity-0 animate-fade-in-up animation-delay-600">
             <p>
-              Se que las palabras a veces no son suficientes, 
-              pero quiero que sepas que lo siento de verdad.
+      
             </p>
             <p>
-              Me equivoque, y cada dia que pasa me doy cuenta 
-              de lo importante que eres para mi.
+              
             </p>
             <p>
-              No te pido que olvides, solo que me des la oportunidad 
-              de demostrarte que puedo ser mejor.
+             
             </p>
           </div>
 
